@@ -7,7 +7,7 @@
 **Stanford CS231A: Computer Vision-From 3D Reconstruction to Recognition (Winter 2018)**
 * <http://web.stanford.edu/class/cs231a/>  
 
-**UCSD CSE291-C00: Machine Learning for 3D Data (Winter 2019)**
+**UCSD CSE291-C00:Machine Learning on Geometrical Data (Winter 2019)**
 * <https://cse291-i.github.io/index.html>
 
 **Stanford CS468: Machine Learning for 3D Data (Spring 2017)**
