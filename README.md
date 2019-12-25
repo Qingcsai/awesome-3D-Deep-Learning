@@ -35,6 +35,6 @@
 
 ### 2.1 3D Human & Garment
 
-:---:|:---:|:---:|:---:
 Year|Title|link|note
+:---:|:---:|:---:|:---:
 2019 ICCV|Multi-Garment Net: Learning to Dress 3D People from Images|[Link](http://openaccess.thecvf.com/content_ICCV_2019/html/Bhatnagar_Multi-Garment_Net_Learning_to_Dress_3D_People_From_Images_ICCV_2019_paper.html)|note
