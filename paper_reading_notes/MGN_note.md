@@ -78,7 +78,7 @@ body shapes和poses，registration和*ClothCap*相似，这里主要描述两者
 解完SMPL UV map的MRF后，把SMPL registration的标签迁移到scan上，就可以把scans分割成三个部分（皮肤，上衣，裤子）。
 
 **Garment Template**
-作者在SMPL+D模型上建立Garment Template。SMPL+D把人体模型表示为一个参数化的函数，用函数表示：
+作者在SMPL+D模型上建立Garment Template。SMPL+D把人体模型表示为一个参数化的函数，用函数表示:
 
 $$M(\beta, \theta, D) = W(T(\beta, \theta, D), J(\beta), \theta, W)$$
 
