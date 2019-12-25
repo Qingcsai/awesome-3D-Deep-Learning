@@ -2,7 +2,7 @@
 
 3D深度学习/机器学习资料
 
-## Courses
+## 1 Courses
 
 **Stanford CS231A: Computer Vision-From 3D Reconstruction to Recognition (Winter 2018)**
 * <http://web.stanford.edu/class/cs231a/>  
@@ -30,3 +30,11 @@
 
 **CreativeAI: Deep Learning for Graphics**
 * <http://geometry.cs.ucl.ac.uk/creativeai/>
+
+## 2 Paper reading notes
+
+### 2.1 3D Human & Garment
+
+:---:|:---:|:---:|:---:
+Year|Title|link|note
+2019 ICCV|Multi-Garment Net: Learning to Dress 3D People from Images|[Link](http://openaccess.thecvf.com/content_ICCV_2019/html/Bhatnagar_Multi-Garment_Net_Learning_to_Dress_3D_People_From_Images_ICCV_2019_paper.html)|note
