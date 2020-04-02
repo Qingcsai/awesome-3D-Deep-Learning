@@ -1,6 +1,6 @@
 # 3D-Deep-Learning-Zoo
 
-3D深度学习/机器学习资料
+Open course collection of 3D deep-learning/machine learning
 
 ## 1 Courses
 
