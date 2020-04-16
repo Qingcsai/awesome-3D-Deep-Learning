@@ -35,9 +35,6 @@ Open course collection of 3D deep-learning/machine learning
 * <http://geometry.cs.ucl.ac.uk/creativeai/>
 
 
-## 2 Paper reading notes
-
-由于github默认不支持Markdown数学公式，所以，部分浏览器可能会出现数学公式无法正常显示现象，可以通过安装chrome插件[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?utm_source=chrome-ntp-icon)来解决问题，安装后刷新一下页面即可正常显示。
 
 ### 2.1 3D Human & Garment
 
